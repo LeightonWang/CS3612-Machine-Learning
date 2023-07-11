@@ -3,6 +3,11 @@ Course Project for CS3612: Machine Learning, 2023 Spring, SJTU
 
 2023春季学期机器学习课程个人代码仓库
 
+## Enviorenment Configuration
+- Python 3.8.16
+- PyTorch 2.0.1
+- Numpy 1.24.3
+
 ## Tasks
 ### Mandatory Task: LeNet
 - Understand the structure of LeNet and implement it.
