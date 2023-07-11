@@ -1,6 +1,8 @@
 # CS3612-Machine-Learning
 Course Project for CS3612: Machine Learning, 2023 Spring, SJTU
 
+2023春季学期机器学习课程个人代码仓库
+
 ## Tasks
 ### Mandatory Task: LeNet
 - Understand the structure of LeNet and implement it.
